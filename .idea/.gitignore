@@ -1,0 +1,8 @@
+# Default ignored files
+/workspace.xml
+/cmake-build-debug
+*.o
+*.txt
+*.out
+client
+server
